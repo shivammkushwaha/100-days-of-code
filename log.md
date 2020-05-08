@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 7, Thursday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I started Binary Search Explore card on Leetcode. I also started working on a project with Nupur.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I am finding it very difficult to implement such a simple searching algorithm in some questions. I've planned to perfect. I had initially thought to master DP but a question got me to realize that I do not even know Binary Search all that well. That question is Longest Increasing Subsequenct. Easily done in n^2, but nlogn is the real deal. Anyway Imma work on that.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 1: May 8, Friday
+
+**Today's Progress**: I continued facing troubles in Binary Search. I partially solved two questions on codechef may long challenge. Added the landing page developed by Nupur to my backend structure. 
+
+**Thoughts** Binary Search is turning out to be an annoyance. I have made a resolution that I shall will surely master it.
+
+**Link(s) to work**
