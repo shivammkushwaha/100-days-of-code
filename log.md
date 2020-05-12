@@ -22,4 +22,8 @@
 
 **Thoughts** I feel like I'm still not proficient with Binary Search. Oh damn this.
 
-**Link(s) to work**
+### Day 6: May 12, Tuesday
+
+**Today's Progress**: I did a few questions on InterviewBit on Binary Search. Didn't work on the web project today. I also continued the Stacks and Queues explore template which I had left to complete Binary Search. I had completed Queues and before and I completed Stacks today. A couple of difficult of stacks remain.
+
+**Thoughts** I wasted a lot of time watching ACM ICPC Finals streams. 
