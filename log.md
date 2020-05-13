@@ -27,3 +27,9 @@
 **Today's Progress**: I did a few questions on InterviewBit on Binary Search. Didn't work on the web project today. I also continued the Stacks and Queues explore template which I had left to complete Binary Search. I had completed Queues and before and I completed Stacks today. A couple of difficult of stacks remain.
 
 **Thoughts** I wasted a lot of time watching ACM ICPC Finals streams. 
+
+### Day 7: May 13, Wednesday
+
+**Today's Progress**: I felt shocked when I couldn't solve the Coin Change Problem on Hackerrank. Then I realized that it was a different variation of what I had solved earlier on Leetcode. Talking about leetcode, I couldn't solve today's May Leetcoding Challenge question, probably because I didn't spend as much time. It is some sort of sliding window algorithm which I will checkout tomorrow. My friend introduced me to CSES. I did 8 questions of Dynamic Programming in it. Interestingly, there were three variations of the Coin Change problem in the problem set. One was similar to Leetcode's, the second one was what I couldn't solve at Hackerrank earlier that morning, and the third one which was actually the question of the solution of what I had thought would work for the second one. And more interstingly, I still couldn't solve the second one.
+
+**Thoughts** I love CSES.
