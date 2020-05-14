@@ -33,3 +33,9 @@
 **Today's Progress**: I felt shocked when I couldn't solve the Coin Change Problem on Hackerrank. Then I realized that it was a different variation of what I had solved earlier on Leetcode. Talking about leetcode, I couldn't solve today's May Leetcoding Challenge question, probably because I didn't spend as much time. It is some sort of sliding window algorithm which I will checkout tomorrow. My friend introduced me to CSES. I did 8 questions of Dynamic Programming in it. Interestingly, there were three variations of the Coin Change problem in the problem set. One was similar to Leetcode's, the second one was what I couldn't solve at Hackerrank earlier that morning, and the third one which was actually the question of the solution of what I had thought would work for the second one. And more interstingly, I still couldn't solve the second one.
 
 **Thoughts** I love CSES.
+
+### Day 8: May 14, Thursday
+
+**Today's Progress**: I was stuck in a sliding window problem of Leetcode. Still not versed with this. I think I'll take this up as my next endeavour. Also, I solved 4 questions on Codeforces Div 3, my highest yet. So yay! I have started Angular today. Just the introduction as the power was out. 
+
+**Thoughts** Imma be a cool MEAN Stack developer. For that Imma perfect Angular. So Imma do that. Oh yeah. 
