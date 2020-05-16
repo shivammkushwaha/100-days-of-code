@@ -39,3 +39,15 @@
 **Today's Progress**: I was stuck in a sliding window problem of Leetcode. Still not versed with this. I think I'll take this up as my next endeavour. Also, I solved 4 questions on Codeforces Div 3, my highest yet. So yay! I have started Angular today. Just the introduction as the power was out. 
 
 **Thoughts** Imma be a cool MEAN Stack developer. For that Imma perfect Angular. So Imma do that. Oh yeah. 
+
+### Day 9: May 15, Friday
+
+**Today's Progress**: Did some CSES
+
+**Thoughts** No thoughts
+
+### Day 10: May 16, Saturday
+
+**Today's Progress**: Did some CSES, did some leetcode. Did some Angular. Started with decorators in Angular. Had some trouble getting used to them. For the very first time, it felt like I could solve the fourth question in a leetcode contest. I passed 87/96 testcases. Which felt good. I was proud of my code. Some stupid testcase!
+
+**Thoughts** Must learn Angular good. Must also make a to-do list regarding DSA and coding stuff.
